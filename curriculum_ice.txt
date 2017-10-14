@@ -1,0 +1,132 @@
+//============================================================================>
+//  Curriculum für das Bachelorstudium ICE
+//============================================================================>
+|
+//---------------------------------------------------------------------------->
+//  Grundlagen
+//---------------------------------------------------------------------------->
+|
+|  Analysis 1a VU .................................................. 4,5  [x]
+|  Analysis 1b VU .................................................. 2,5  [x]
+|  Numerisches Rechnen und lineare Algebra VU ...................... 4,5  [x]
+|  Diskrete Mathematik ICE VU ...................................... 4,5  [x]
+|  Wahrscheinlichkeitstheorie für Informatikstudien VU ............. 3,0  [x]
+|  Stochastische Prozesse für Informatikstudien VU ................. 1,5  [x]
+|  Differenzialgleichungen VU ...................................... 3,0  [x]
+|  Physik (ET) VO .................................................. 4,5  [x]
+|  Physik (ET) UE .................................................. 1,0  [x]
+|  Signaltransformationen VO ....................................... 1,5  [ ] \ 18.12.17
+|  Signaltransformationen UE ....................................... 2,0  [ ] / 1 Klausur
+|  Signalverarbeitung VO ........................................... 3,0  [ ]
+|  Signalverarbeitung UE ........................................... 1,5  [x]
+|  Control Systems 1 VO ............................................ 4,0  [x]
+|  Control Systems 1 UE ............................................ 1,5  [x]
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Grundlagen ....................................... 42,5 [ ]
+//---------------------------------------------------------------------------->
+|
+//---------------------------------------------------------------------------->
+//  Elektro- und Informationstechnik
+//---------------------------------------------------------------------------->
+|
+|  Grundlagen der Elektrotechnik VO ................................ 4,5  [x]
+|  Grundlagen der Elektrotechnik UE ................................ 1,0  [ ]
+|  Grundlagen der Elektrotechnik, Labor ............................ 1,0  [x]
+|  Grundlagen elektrischer Netzwerke VO ............................ 4,0  [ ]  30.10.17 ?
+|  Grundlagen elektrischer Netzwerke UE ............................ 2,5  [x]
+|  Messtechnik 1 VO ................................................ 3,0  [ ]  22.11.17
+|  Messtechnik, Labor .............................................. 3,0  [x]
+|  Elektronische Schaltungstechnik 1 VO ............................ 3,0  [x]
+|  Elektronische Schaltungstechnik 2 VO ............................ 3,0  [x]
+|  Elektronische Schaltungstechnik UE .............................. 1,5  [ ]
+|  Elektronische Schaltungstechnik, Labor .......................... 3,0  [x]
+|  Nachrichtentechnik VO ........................................... 4,0  [x]
+|  Nachrichtentechnik UE ........................................... 3,0  [x]
+|  Nachrichtentechnik, Labor........................................ 3,0  [x]
+|  Architektur verteilter Systeme VO ............................... 3,0  [x]
+|  Architektur verteilter Systeme UE ............................... 1,5  [x]
+|  Entwurf von Echtzeitsystemen VO ................................. 3,0  [x]
+|  Entwurf von Echtzeitsystemen UE ................................. 1,5  [x]
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Elektro- und Informationstechnik.................. 48,5 [ ]
+//---------------------------------------------------------------------------->
+|
+//---------------------------------------------------------------------------->
+//  Informationsverarbeitung
+//---------------------------------------------------------------------------->
+|
+|  Einführung in die strukturierte Programmierung VU ............... 3,0  [x]
+|  Grundlagen der Informatik VO .................................... 4,0  [x]
+|  Grundlagen der Informatik UE .................................... 1,5  [x]
+|  Rechnerorganisation VO .......................................... 3,0  [x]
+|  Rechnerorganisation KU .......................................... 1,5  [x]
+|  Softwareentwicklung Praktikum VU ................................ 5,0  [x]
+|  Datenstrukturen und Algorithmen VO .............................. 3,0  [x]
+|  Datenstrukturen und Algorithmen UE .............................. 1,5  [x]
+|  Datenbanken VU .................................................. 3,0  [x]
+|  Systemnahe Programmierung KU .................................... 2,0  [x]
+|  Betriebssysteme VU .............................................. 7,5  [x]
+|  Introduction to Information Security VO ......................... 3,0  [x]
+|  Introduction to Information Security KU ......................... 1,5  [x]
+|  Computergrafik 1 VU ............................................. 2,5  [x]
+|  Computer Vision 1 VU ............................................ 2,0  [x]
+|  Rechner- und Kommunikationsnetze VO ............................. 3,0  [ ] 16.01.18
+|  Rechner- und Kommunikationsnetze KU ............................. 1,5  [x]
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Informationsverarbeitung ......................... 48,5 [ ]
+//---------------------------------------------------------------------------->
+|
+//---------------------------------------------------------------------------->
+//  Soft Skills, Humanwissenschaften und Motivation
+//---------------------------------------------------------------------------->
+|
+| Einführung in Information and Computer Engineering VO ............ 1,0  [x]
+| Technische Berichte/Präsentation LU .............................. 1,0  [x]
+| Systems Engineering and Project Management VO .................... 1,5  [x]
+| Verfassen wissenschaftlicher Arbeiten SE ......................... 2,0  [x]
+| Gesellschaftliche Aspekte der Informationstechnologie VU ......... 2,5  [x]
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Soft Skills, Humanwissenschaften und Motivation .. 8    [x]
+//---------------------------------------------------------------------------->
+|
+//---------------------------------------------------------------------------->
+//  Wahlfach und Bachelorarbeit (13,5 ECTS aus Wahlpflichtkatalog)
+//---------------------------------------------------------------------------->
+|
+|  Bachelorarbeit Information and Computer Engineering ............. 8    [?]
+|  Hardwarebeschreibungssprachen VO ................................ 3,0  [x]
+|  Hardwarebeschreibungssprachen UE ................................ 1,5  [x]
+|  Schaltungssimulationen VO ....................................... 1,5  [x]
+|  Schaltungssimulationen UE ....................................... 3,0  [x]
+|  Computational Intelligence VO ................................... 3,0  [h]
+|  Computational Intelligence UE ................................... 1,5  [x]
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Wahlfach und Bachelorarbeit ...................... 21,5 [ ]
+//----------------------------------------------------------------------------
+|
+//============================================================================>
+//  Summe Pflichtfächer ............................................ 171,0 [ ]
+//============================================================================>
+|
+//---------------------------------------------------------------------------->
+//  Frei zu wählende Lehrveranstaltungen
+//---------------------------------------------------------------------------->
+|
+|  Internet and New Media VU ....................................... 1,0  [x]
+|  Einführung in das Studium der Informatik VO ..................... 1,0  [x]
+|  Englisch für TechnikerInnen: Festigungsstufe 1 SE ............... 3,0  [x]
+|  Computergrafik 2 VU ............................................. 2,0  [x]
+|  TODO: more stuff
+|
+//---------------------------------------------------------------------------->
+//  Zwischensumme Frei zu wählende Lehrveranstaltungen ............. 9,0  [ ]
+//---------------------------------------------------------------------------->
+|
+//============================================================================>
+//  Summe Bachelorstudium ICE ...................................... 180  [ ]
+//============================================================================>
