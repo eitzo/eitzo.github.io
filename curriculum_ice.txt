@@ -18,6 +18,7 @@
 |  Signaltransformationen VO ....................................... 1,5  [ ] \ 18.12.17
 |  Signaltransformationen UE ....................................... 2,0  [ ] / 1 Klausur
 |  Signalverarbeitung VO ........................................... 3,0  [ ]
+|     ---> Mixed-Signal Processing Systems Design 15.01.s
 |  Signalverarbeitung UE ........................................... 1,5  [x]
 |  Control Systems 1 VO ............................................ 4,0  [x]
 |  Control Systems 1 UE ............................................ 1,5  [x]
