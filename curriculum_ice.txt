@@ -34,7 +34,7 @@
 |  Grundlagen der Elektrotechnik VO ................................ 4,5  [x]
 |  Grundlagen der Elektrotechnik UE ................................ 1,0  [ ]
 |  Grundlagen der Elektrotechnik, Labor ............................ 1,0  [x]
-|  Grundlagen elektrischer Netzwerke VO ............................ 4,0  [ ]  31.10.17 ?
+|  Grundlagen elektrischer Netzwerke VO ............................ 4,0  [ ]  31.10.17
 |  Grundlagen elektrischer Netzwerke UE ............................ 2,5  [x]
 |  Messtechnik 1 VO ................................................ 3,0  [ ]  22.11.17
 |  Messtechnik, Labor .............................................. 3,0  [x]
