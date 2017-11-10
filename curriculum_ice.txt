@@ -103,7 +103,7 @@
 |  Hardwarebeschreibungssprachen UE ................................ 1,5  [x]
 |  Schaltungssimulationen VO ....................................... 1,5  [x]
 |  Schaltungssimulationen UE ....................................... 3,0  [x]
-|  Computational Intelligence VO ................................... 3,0  [h]
+|  Computational Intelligence VO ................................... 3,0  [x]
 |  Computational Intelligence UE ................................... 1,5  [x]
 |
 //---------------------------------------------------------------------------->
