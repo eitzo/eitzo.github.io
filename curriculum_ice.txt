@@ -122,7 +122,7 @@
 |  Einführung in das Studium der Informatik VO ..................... 1,0  [x]
 |  Englisch für TechnikerInnen: Festigungsstufe 1 SE ............... 3,0  [x]
 |  Computergrafik 2 VU ............................................. 2,0  [x]
-|  TODO: more stuff
+|  Studiogerätekunde VO ............................................ 3,0  [ ]
 |
 //---------------------------------------------------------------------------->
 //  Zwischensumme Frei zu wählende Lehrveranstaltungen ............. 9,0  [ ]
