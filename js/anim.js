@@ -2,7 +2,7 @@ setTimeout(function(){
 setInterval(function(){
     var progress = document.getElementById('custom-progress');
 
-    if (progress.value < 58) {
+    if (progress.value < 59) {
         progress.value += 1;
     }
 
