@@ -40,7 +40,7 @@
 |  Messtechnik, Labor .............................................. 3,0  [x]
 |  Elektronische Schaltungstechnik 1 VO ............................ 3,0  [x]
 |  Elektronische Schaltungstechnik 2 VO ............................ 3,0  [x]
-|  Elektronische Schaltungstechnik UE .............................. 1,5  [ ]
+|  Elektronische Schaltungstechnik UE .............................. 1,5  [x]
 |  Elektronische Schaltungstechnik, Labor .......................... 3,0  [x]
 |  Nachrichtentechnik VO ........................................... 4,0  [x]
 |  Nachrichtentechnik UE ........................................... 3,0  [x]
