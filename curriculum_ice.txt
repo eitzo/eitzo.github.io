@@ -15,10 +15,10 @@
 |  Differenzialgleichungen VU ...................................... 3,0  [x]
 |  Physik (ET) VO .................................................. 4,5  [x]
 |  Physik (ET) UE .................................................. 1,0  [x]
-|  Signaltransformationen VO ....................................... 1,5  [ ] \ 18.12.17
+|  Signaltransformationen VO ....................................... 1,5  [ ] \
 |  Signaltransformationen UE ....................................... 2,0  [ ] / 1 Klausur
 |  Signalverarbeitung VO ........................................... 3,0  [ ]
-|     ---> Mixed-Signal Processing Systems Design 15.01.18
+|     ---> Mixed-Signal Processing Systems Design
 |  Signalverarbeitung UE ........................................... 1,5  [x]
 |  Control Systems 1 VO ............................................ 4,0  [x]
 |  Control Systems 1 UE ............................................ 1,5  [x]
