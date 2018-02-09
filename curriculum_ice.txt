@@ -17,7 +17,7 @@
 |  Physik (ET) UE .................................................. 1,0  [x]
 |  Signaltransformationen VO ....................................... 1,5  [ ] \
 |  Signaltransformationen UE ....................................... 2,0  [ ] / 1 Klausur
-|  Signalverarbeitung VO ........................................... 3,0  [ ]
+|  Signalverarbeitung VO ........................................... 3,0  [x]
 |     ---> Mixed-Signal Processing Systems Design
 |  Signalverarbeitung UE ........................................... 1,5  [x]
 |  Control Systems 1 VO ............................................ 4,0  [x]
@@ -36,7 +36,7 @@
 |  Grundlagen der Elektrotechnik, Labor ............................ 3,0  [x]
 |  Grundlagen elektrischer Netzwerke VO ............................ 4,0  [ ]
 |  Grundlagen elektrischer Netzwerke UE ............................ 2,5  [x]
-|  Messtechnik 1 VO ................................................ 3,0  [ ]  
+|  Messtechnik 1 VO ................................................ 3,0  [ ]
 |  Messtechnik, Labor .............................................. 3,0  [x]
 |  Elektronische Schaltungstechnik 1 VO ............................ 3,0  [x]
 |  Elektronische Schaltungstechnik 2 VO ............................ 3,0  [x]
@@ -44,7 +44,7 @@
 |  Elektronische Schaltungstechnik, Labor .......................... 3,0  [x]
 |  Nachrichtentechnik VO ........................................... 4,0  [x]
 |  Nachrichtentechnik UE ........................................... 3,0  [x]
-|  Nachrichtentechnik, Labor........................................ 3,0  [x]
+|  Nachrichtentechnik, Labor ....................................... 3,0  [x]
 |  Architektur verteilter Systeme VO ............................... 3,0  [x]
 |  Architektur verteilter Systeme UE ............................... 1,5  [x]
 |  Entwurf von Echtzeitsystemen VO ................................. 3,0  [x]
@@ -73,7 +73,7 @@
 |  Introduction to Information Security KU ......................... 1,5  [x]
 |  Computergrafik 1 VU ............................................. 2,5  [x]
 |  Computer Vision 1 VU ............................................ 2,0  [x]
-|  Rechner- und Kommunikationsnetze VO ............................. 3,0  [ ] 
+|  Rechner- und Kommunikationsnetze VO ............................. 3,0  [ ]
 |  Rechner- und Kommunikationsnetze KU ............................. 1,5  [x]
 |
 //---------------------------------------------------------------------------->
@@ -98,7 +98,7 @@
 //  Wahlfach und Bachelorarbeit (13,5 ECTS aus Wahlpflichtkatalog)
 //---------------------------------------------------------------------------->
 |
-|  Bachelorarbeit Information and Computer Engineering ............. 8    [?]
+|  Bachelorarbeit Information and Computer Engineering ............. 8,0  [?]
 |  Hardwarebeschreibungssprachen VO ................................ 3,0  [x]
 |  Hardwarebeschreibungssprachen UE ................................ 1,5  [x]
 |  Schaltungssimulationen VO ....................................... 1,5  [x]
