@@ -9,7 +9,7 @@ progress {
   background-color: powderblue;
   border: none;
 
-  text-align:center;
+  text-align: center;
 
 }
 
@@ -22,6 +22,11 @@ progress:before {
   position:absolute;
   left:0;
   right:0;
+}
+
+::-moz-progress-bar {
+  text-align: center;
+
 }
 
 a:link {
