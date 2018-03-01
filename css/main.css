@@ -18,7 +18,7 @@ progress:before {
   font-size: 0.8em;
   vertical-align: 0;
   
-  /*Position text over the progress bar */
+  /* Position text over the progress bar */
   position:absolute;
   left:0;
   right:0;
