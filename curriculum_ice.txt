@@ -98,7 +98,7 @@
 //  Wahlfach und Bachelorarbeit (13,5 ECTS aus Wahlpflichtkatalog)
 //---------------------------------------------------------------------------->
 |
-|  Bachelorarbeit Information and Computer Engineering ............. 8,0  [?]
+|  Bachelorarbeit Information and Computer Engineering ............. 8,0  [x]
 |  Hardwarebeschreibungssprachen VO ................................ 3,0  [x]
 |  Hardwarebeschreibungssprachen UE ................................ 1,5  [x]
 |  Schaltungssimulationen VO ....................................... 1,5  [x]
